@@ -4,5 +4,4 @@ print_func <- function(){
 
 sum_func <- function(a, b){
   c <- a + b
-  return(c)
 }
